@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://nyandiekafelix.github.io/sitemap.xml
+Host: https://nyandiekafelix.github.io
