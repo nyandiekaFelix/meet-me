@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://nyandiekafelix.github.io/sitemap.xml
+Sitemap: https://nyandiekafelix.github.io/meet-me/sitemap-index.xml
 Host: https://nyandiekafelix.github.io
